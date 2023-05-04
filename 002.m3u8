@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://delivery.ksa.my.id/stream/mtatv/playlist.m3u8?token=ym1wtrp
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://raw.githubusercontent.com/uwansm/r/0/002a.m3u8
