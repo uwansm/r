@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://tvmu.siar.us/tvmu/live/chunks.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683108&extension=m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://delivery.ksa.my.id/stream/tvmu/playlist.m3u8?token=ym1wtrp
